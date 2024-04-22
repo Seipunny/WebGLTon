@@ -36,14 +36,14 @@ window.addEventListener("load", function () {
   }
 
   var buildUrl = "Build";
-  var loaderUrl = buildUrl + "/TonTestBuild.loader.js";
+  var loaderUrl = buildUrl + "/TonBuild.loader.js";
   var config = {
-    dataUrl: buildUrl + "/TonTestBuild.data.unityweb",
-    frameworkUrl: buildUrl + "/TonTestBuild.framework.js.unityweb",
-    codeUrl: buildUrl + "/TonTestBuild.wasm.unityweb",
+    dataUrl: buildUrl + "/TonBuild.data.unityweb",
+    frameworkUrl: buildUrl + "/TonBuild.framework.js.unityweb",
+    codeUrl: buildUrl + "/TonBuild.wasm.unityweb",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
-    productName: "TonTest",
+    productName: "TonConnect",
     productVersion: "1.0",
     showBanner: unityShowBanner,
   };

@@ -1,6 +1,6 @@
 {
-    "name": "TonTest",
-    "short_name": "TonTest",
+    "name": "TonConnect",
+    "short_name": "TonConnect",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
